@@ -1,3 +1,12 @@
+## 🏢 Internship Project
+
+This project was developed as part of my **Internship program at Progree**.
+
+**Organization:** Progree  
+**Internship:** progree Internship  
+**Project:** Sentiment Classifier  
+**Role:** AI/ML Intern
+
 # Sentiment Classifier
 
 A machine learning project that classifies text into different sentiment categories using Natural Language Processing (NLP) techniques.
@@ -112,6 +121,7 @@ Tariq Khan
 
 BS Artificial Intelligence Student
 University of Peshawar
+**AI/ML Intern at Progree**
 
 ⭐ If you find this project useful, feel free to explore the repository.
 
