@@ -1,0 +1,31 @@
+text,sentiment
+"I love this product, it works perfectly.",positive
+The service was excellent and very fast.,positive
+I am very happy with my purchase.,positive
+This movie was amazing and enjoyable.,positive
+The app is easy to use and very helpful.,positive
+The food tasted great and fresh.,positive
+I had a wonderful experience.,positive
+The customer support was friendly and helpful.,positive
+I am satisfied with the quality.,positive
+This is one of the best products I have used.,positive
+"I hate this product, it is completely useless.",negative
+The service was terrible and very slow.,negative
+I am very disappointed with my purchase.,negative
+This movie was boring and awful.,negative
+The app is difficult to use and confusing.,negative
+The food tasted bad and was cold.,negative
+I had a horrible experience.,negative
+The customer support was rude and unhelpful.,negative
+I am unhappy with the quality.,negative
+This is one of the worst products I have used.,negative
+"The product is okay, nothing special.",neutral
+The service was average.,neutral
+I think the movie was fine.,neutral
+"The app works, but it could be better.",neutral
+The food was neither good nor bad.,neutral
+My experience was normal.,neutral
+The quality is acceptable.,neutral
+The product has some good and bad features.,neutral
+The service was satisfactory.,neutral
+I have mixed feelings about this product.,neutral
