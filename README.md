@@ -66,7 +66,7 @@ Model Evaluation
    ↓
 Sentiment Prediction
 
-# project structure
+project structure:
 sentiment_classifier/
 │
 ├── data/
@@ -78,22 +78,22 @@ sentiment_classifier/
 │
 └── README.md
 
-# clone the repository
+clone the repository:
 git clone YOUR_GITHUB_REPOSITORY_URL
 
-# open the project in your vs code
-# install the required librareis
+open the project in your vs code
+install the required librareis
 pip install -r requirements.txt
 
-# Open
+Open:
 notebooks/sentiment_classifier.ipynb
-#run the notebook cells from beginning to end
+run the notebook cells from beginning to end
 
-# Example
+Example
 Input:
 I love this product, it works perfectly.
 
-# expected sentiment
+expected sentiment
 Positive
 
 Learning Outcomes
@@ -119,27 +119,20 @@ Author
 
 Tariq Khan
 
-BS Artificial Intelligence Student
+BS Artificial Intelligence Student at
 University of Peshawar
 **AI/ML Intern at Progree**
 
-⭐ If you find this project useful, feel free to explore the repository.
+ If you find this project useful, feel free to explore the repository.
 
-### 3. Save it
+3. Save it
 
 Press:
 
-**`Ctrl + S`**
+Ctrl + S
 
----
+**** Thank you *****
 
-### One important thing
 
-Don't put a made-up accuracy number in the README. Since your model is already complete, we'll use the **actual accuracy and evaluation results from your notebook**.
 
-### Next
-
-After saving `README.md`, send me a screenshot of your VS Code Explorer.
-
-Then we'll create **`requirements.txt`** based on the libraries your actual notebook uses, and after that we'll set up **Git and GitHub**.
 
